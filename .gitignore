@@ -1,6 +1,10 @@
 .vs
+*.suo
+*.user
 *.backup
 *.clef
 bin
 obj
 build
+appsettings.json
+appsettings.Development.json
