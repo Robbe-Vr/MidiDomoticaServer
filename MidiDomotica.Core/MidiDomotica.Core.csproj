@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Libraries\SYWCentralLogging\SYWCentralLogging.csproj" />
+    <ProjectReference Include="..\Libraries\SYWPipeNetworkManager\SYWPipeNetworkManager.csproj" />
+    <ProjectReference Include="..\MidiDomotica.Exchange\MidiDomotica.Exchange.csproj" />
+    <ProjectReference Include="..\MidiDomotica.MidiReader\MidiDomotica.MidiReader.csproj" />
+    <ProjectReference Include="..\MidiDomotica.TimedEvents\MidiDomotica.TimedEvents.csproj" />
+  </ItemGroup>
+
+</Project>

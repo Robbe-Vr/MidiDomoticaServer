@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "TKzKNh+9X28lNAb1DTwJ0/luqqeIFdH5lVLfVc2Rj7XMsvmiPMtHfI3CPoVcKI5uRFeTmoXOOFLpJGFYTQhNKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Robbe\\source\\repos\\MidiDomoticaApi\\MidiDomotica.MidiReader\\MidiDomotica.MidiReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robbe\\.nuget\\packages\\sanford.multimedia.midi\\6.6.2\\sanford.multimedia.midi.6.6.2.nupkg.sha512",
+    "C:\\Users\\Robbe\\.nuget\\packages\\syslognet.client\\0.3.3\\syslognet.client.0.3.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Sanford.Multimedia.Midi 6.6.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Sanford.Multimedia.Midi",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SyslogNet.Client 0.3.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SyslogNet.Client",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

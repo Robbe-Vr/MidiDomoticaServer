@@ -1,0 +1,15 @@
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.Exchange\bin\Debug\net5.0-windows\MidiDomotica.Exchange.deps.json
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.Exchange\bin\Debug\net5.0-windows\MidiDomotica.Exchange.dll
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.Exchange\bin\Debug\net5.0-windows\ref\MidiDomotica.Exchange.dll
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.Exchange\bin\Debug\net5.0-windows\MidiDomotica.Exchange.pdb
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.Exchange\bin\Debug\net5.0-windows\SYWCentralLogging.dll
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.Exchange\bin\Debug\net5.0-windows\SYWCentralLogging.pdb
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.Exchange\obj\Debug\net5.0-windows\MidiDomotica.Exchange.csproj.AssemblyReference.cache
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.Exchange\obj\Debug\net5.0-windows\MidiDomotica.Exchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.Exchange\obj\Debug\net5.0-windows\MidiDomotica.Exchange.AssemblyInfoInputs.cache
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.Exchange\obj\Debug\net5.0-windows\MidiDomotica.Exchange.AssemblyInfo.cs
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.Exchange\obj\Debug\net5.0-windows\MidiDomotica.Exchange.csproj.CoreCompileInputs.cache
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.Exchange\obj\Debug\net5.0-windows\MidiDomotica.Exchange.csproj.CopyComplete
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.Exchange\obj\Debug\net5.0-windows\MidiDomotica.Exchange.dll
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.Exchange\obj\Debug\net5.0-windows\ref\MidiDomotica.Exchange.dll
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.Exchange\obj\Debug\net5.0-windows\MidiDomotica.Exchange.pdb

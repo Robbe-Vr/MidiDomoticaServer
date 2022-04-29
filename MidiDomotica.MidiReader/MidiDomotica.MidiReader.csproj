@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Sanford.Multimedia.Midi" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Libraries\SYWCentralLogging\SYWCentralLogging.csproj" />
+    <ProjectReference Include="..\MidiDomotica.Exchange\MidiDomotica.Exchange.csproj" />
+  </ItemGroup>
+
+</Project>

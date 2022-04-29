@@ -1,0 +1,17 @@
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\bin\Release\net5.0-windows\MidiDomotica.MidiReader.deps.json
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\bin\Release\net5.0-windows\MidiDomotica.MidiReader.dll
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\bin\Release\net5.0-windows\ref\MidiDomotica.MidiReader.dll
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\bin\Release\net5.0-windows\MidiDomotica.MidiReader.pdb
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\bin\Release\net5.0-windows\MidiDomotica.Exchange.dll
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\bin\Release\net5.0-windows\SYWCentralLogging.dll
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\bin\Release\net5.0-windows\SYWCentralLogging.pdb
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\bin\Release\net5.0-windows\MidiDomotica.Exchange.pdb
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\obj\Release\net5.0-windows\MidiDomotica.MidiReader.csproj.AssemblyReference.cache
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\obj\Release\net5.0-windows\MidiDomotica.MidiReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\obj\Release\net5.0-windows\MidiDomotica.MidiReader.AssemblyInfoInputs.cache
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\obj\Release\net5.0-windows\MidiDomotica.MidiReader.AssemblyInfo.cs
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\obj\Release\net5.0-windows\MidiDomotica.MidiReader.csproj.CoreCompileInputs.cache
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\obj\Release\net5.0-windows\MidiDomotica.MidiReader.csproj.CopyComplete
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\obj\Release\net5.0-windows\MidiDomotica.MidiReader.dll
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\obj\Release\net5.0-windows\ref\MidiDomotica.MidiReader.dll
+C:\Users\Robbe\source\repos\MidiDomoticaApi\MidiDomotica.MidiReader\obj\Release\net5.0-windows\MidiDomotica.MidiReader.pdb

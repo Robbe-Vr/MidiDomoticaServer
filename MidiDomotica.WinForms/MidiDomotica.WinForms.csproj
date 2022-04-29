@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Properties\PublishProfiles\ClickOnceProfile.pubxml.user" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Libraries\SYWCentralLogging\SYWCentralLogging.csproj" />
+    <ProjectReference Include="..\MidiDomotica.Core\MidiDomotica.Core.csproj" />
+    <ProjectReference Include="..\MidiDomotica.Exchange\MidiDomotica.Exchange.csproj" />
+    <ProjectReference Include="..\MidiDomoticaApi\MidiDomoticaApi.csproj" />
+  </ItemGroup>
+
+</Project>
