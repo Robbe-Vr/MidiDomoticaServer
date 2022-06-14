@@ -13,7 +13,7 @@ namespace SYWCentralLogging
 {
     internal class SyslogSender
     {
-        private const string syslogServerIp = "192.168.2.101";
+        private const string syslogServerIp = "{SERVER_IP}";
         private const int syslogServerPort = 514;
         public SyslogProtocol Protocol { get; set; } = SyslogProtocol.UDP;
 
